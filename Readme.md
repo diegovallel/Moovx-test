@@ -8,7 +8,7 @@ To test the app, There are two ways:
 ## steps
 
 ## PART I: Run script
-Inside the folder there is an script called moovx_test.js. This file have the script to make the match between the demand and supply and the inputs of the salesOrders and purchaseOrders as in the .dat file. To change the values ​​of these two objects, they must be changed within the code. To run the script use the next command:
+Inside the folder there is a script called moovx_test.js. This file have the script to make the match between the demand and supply and the inputs of the salesOrders and purchaseOrders as in the .dat file. To change the values ​​of these two objects, they must be changed within the code. To run the script use the next command:
 
 ```
 node moovx_test.js
@@ -16,7 +16,7 @@ node moovx_test.js
 
 # Run endpoint 
 
-Inside the folder there is the project moovx that is an API to test the script wiith the different sales and purchase orders that the user wants to enter.
+Inside the folder there is the folder called moovx that is an API to test the script with the different sales and purchase orders that the user wants to enter.
 
 ## Steps
 
